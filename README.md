@@ -24,67 +24,13 @@ SSC – State Board, Pune
 2018 – 2019 | Percentage: 73.40%
 
 🛠️ Technical Skills
-Programming Languages
-
-Python
-
-Java (Basics)
-
-Data Analysis & Visualization
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Power BI
-
-Tableau
-
-Data Preprocessing
-
-Exploratory Data Analysis (EDA)
-
-Basic Statistics
-
-Web Development
-
-HTML
-
-CSS
-
-JavaScript
-
-React
-
-Database
-
-MySQL
-
-Concepts
-
-Object-Oriented Programming (OOPs)
-
-Software Development Life Cycle (SDLC)
-
-Tools & Platforms
-
-Git
-
-GitHub
-
-VS Code
-
-Eclipse
-
-Cloud & OS
-
-AWS (Basics)
-
-Windows
-
-Linux
+ProgrammingLanguages:: Python
+DataAnalysis: Python (Pandas, NumPy,Matplotlib), PowerBI, Data Preprocessing, Visualization, Basic Statistics
+WebDevelopment: HTML,CSS,JavaScript
+Database: MYSQL
+Concepts: Object-Oriented Programming (OOPs), SDLC
+CloudTechnologies: Git, GitHub, AWS(Basics)
+Operating Systems: Windows,Linux
 
 📂 Major Project
 🔐 Medledger – Personal Health Record Identification System
