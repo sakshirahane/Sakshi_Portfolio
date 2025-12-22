@@ -23,13 +23,20 @@ Sanjivani K.B.P. Polytechnic (MSBTE, Mumbai)
 SSC – State Board, Pune
 2018 – 2019 | Percentage: 73.40%
 
+
 🛠️ Technical Skills
 ProgrammingLanguages:: Python
+
 DataAnalysis: Python (Pandas, NumPy,Matplotlib), PowerBI, Data Preprocessing, Visualization, Basic Statistics
+
 WebDevelopment: HTML,CSS,JavaScript
+
 Database: MYSQL
+
 Concepts: Object-Oriented Programming (OOPs), SDLC
+
 CloudTechnologies: Git, GitHub, AWS(Basics)
+
 Operating Systems: Windows,Linux
 
 📂 Major Project
